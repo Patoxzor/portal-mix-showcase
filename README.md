@@ -27,9 +27,9 @@ portal API — so the payroll database is **never exposed to the internet**.
 
 ## 📸 Screenshots
 
-| Employee portal | HR dashboard | Generated PDF |
+| Employee portal | Municipality management | Admin overview (multi-tenant) |
 |---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+| ![Public servant's documents — payslips per period with PDF download](assets/employee-portal.png) | ![Per-municipality detail: API token, document import and published payslips](assets/municipality.png) | ![Admin dashboard: all municipalities, users and published documents](assets/admin-overview.png) |
 
 ---
 
